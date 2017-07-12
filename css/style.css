@@ -1,0 +1,57 @@
+body,footer,footer {
+ text-align: center;
+ font-family: 'Montserrat';
+ line-height: 1.5;
+ margin: 40px;
+   }
+
+header .mainimg{
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 22px;
+  margin-top: 30px;
+}
+
+a {
+  color: white;
+}
+header h1 {
+  font-size: 69px;
+}
+header h2 {
+  font-size: 30px;
+  font-weight: normal;
+
+}
+
+.box-about {
+  text-align: left;
+  border-top:1px solid;
+  padding: 20px;
+}
+
+.box-philo {
+    color: white;
+    background: url(https://unsplash.it/1200/800?image=354);
+    background-attachment: fixed;
+    background-position: center;
+    padding: 50px;
+    font-size: 50px;
+ }
+
+
+.box-contact {
+  margin-top: 50px;
+  color: white;
+  background-color: #212121;
+  padding: 40px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+footer {
+  border-top: 1px solid;
+
+}

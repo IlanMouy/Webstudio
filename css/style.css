@@ -1,11 +1,11 @@
-body,footer,footer {
+body,footer {
  text-align: center;
  font-family: 'Montserrat';
  line-height: 1.5;
  margin: 40px;
    }
 
-header .mainimg{
+.mainimg{
   width: 150px;
   border-radius: 50%;
   margin-bottom: 22px;
